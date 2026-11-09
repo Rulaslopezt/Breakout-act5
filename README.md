@@ -4,7 +4,6 @@ Juego tipo *Breakout* en **Godot 4** conectado a una **base de datos SQLite**, c
 **clasificación (leaderboard)** y una **interfaz web local** para consultar todo lo
 que hace el jugador.
 
-> **Práctica 4 — Conexión a una base de datos**
 
 ---
 
